@@ -8,4 +8,5 @@ Typing `*` as the first string & pressing space makes anything you type afterwar
 Typing `**` as the first string & pressing space makes anything you type afterwards in `Red line` format. \
 Typing `***` as the first string & pressing space makes anything you type afterwards in `Underline` format.
 
-On Pressing `Save` button persists everything typed in the editor into `localstorage`. On refreshing the page, the saved info gets refilled into the editor.
+On Pressing `Save` button persists everything typed in the editor into `localstorage`. \
+On refreshing the page, the saved info gets refilled into the editor.
